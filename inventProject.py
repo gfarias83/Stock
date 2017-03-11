@@ -1,4 +1,3 @@
-
 stock = {}
 
 def menu():
